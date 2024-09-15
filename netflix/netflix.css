@@ -1,0 +1,506 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+.start
+{
+    height: 700px;
+    background-image: url("netflix\ img.jpg");
+    background-size: cover;
+    
+}
+
+.nav-bar
+{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+}
+.design1
+{   height: 100px;
+    width: 20%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   
+}
+.let1
+{
+    font-size: 3rem;
+    font-weight: 700;
+    color: red;
+}
+.let2
+{
+    font-size: 2.7rem;
+    font-weight: 700;
+    color: red;
+}
+.let3
+{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: red;
+}
+.let4
+{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: red;
+}
+.let5
+{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: red;
+}
+.let6
+{
+    font-size: 2.7rem;
+    font-weight: 700;
+    color: red;
+}
+.let7
+{
+    font-size: 3rem;
+    font-weight: 700;
+    color: red;
+}
+.nav-info
+{
+    height: 100px;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.icon
+{
+    height: 40px;
+    width: 50px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.icon i{
+    color: white;
+    font-size: 1.5rem;
+
+}
+.nav-select
+{
+    height:40px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: none;
+}
+.nav-select select{
+    height: 40.6px;
+    width: 80px;
+    color: white;
+    font-size: 1rem;
+    font-weight: 200;
+    border-left-color: transparent;
+    background-color: transparent;
+}
+.nav-sign
+{
+    height: 40px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+.nav-sign{
+    color: white;
+    font-size: 1rem;
+    font-weight: 200;
+}
+
+.know1
+{
+    height: 400px;
+    color: white;
+    font-size: 4rem;
+    font-weight: 500;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+
+}
+.msg1
+{
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 200;
+}
+.msg2
+{
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 200;
+}
+.msg3
+{
+    color:#FFFFFF;
+    font-size: 1.5rem;
+    font-weight: 100;
+    margin-top: 10px;
+   
+}
+.msg4
+{
+    color:#FFFFFF;
+    font-size: 1.5rem;
+    font-weight: 100;
+    margin-top: 20px;
+}
+.msg5
+{
+    color:#FFFFFF;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+.panel1
+{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+
+}
+
+
+.msg6
+{
+    height: 50px;
+   
+    color: black;
+    font-size: 0.8rem;
+}
+
+
+.nav-msg7
+{
+    height: 50px;
+    width: 170px;
+    color: white;
+    font-size: 1rem;
+    font-weight: 200;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    background-color: red;
+    border-radius: 5px;
+    margin-left: 20px;
+    
+
+}
+.nav-msg7 i{
+    margin-left: 15px;
+}
+.maincontent
+{
+    height: fit-content;
+    background-color: black;
+    border-top: 5px solid gray;
+   
+
+}
+
+.content1
+{  height: 500px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1
+{
+   height: 300px;
+    width: 500px;
+    background-image: url("img-1\ net.png");
+    background-size: cover;
+}
+.about1
+{
+    height: 300px;
+    width: 450xx;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.movie1{
+    font-size: 3rem;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.movie2
+{
+    font-size: 1.5rem;
+   
+    font-weight: 300px;
+
+}
+.movie3
+{
+    font-size: 1.5rem;
+    font-weight: 300px;
+    margin-right: 150px;
+
+}
+
+.content2
+{  height: 500px;
+    color: white;
+    border: 5px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img2
+{
+   height: 300px;
+    width: 500px;
+    background-image: url("img-2\ net.jpg");
+    background-size: cover;
+}
+.about2
+{
+    height: 300px;
+    width: 450xx;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.movie4{
+    font-size: 3rem;
+    width: 800px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.movie5
+{
+    font-size: 1.5rem;
+    width: 400px;
+    font-weight: 300px;
+    margin-right: 400px;
+
+}
+.content3
+{  height: 500px;
+    color: white;
+    border: 5px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img3
+{
+   height: 300px;
+    width: 500px;
+    background-image: url("img-3\ net.png");
+    background-size: cover;
+}
+.about3
+{
+    height: 300px;
+    width: 450xx;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.movie6{
+    font-size: 3rem;
+    width: 800px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.movie7
+{
+    font-size: 1.5rem;
+    width: 800px;
+    font-weight: 300px;
+
+}
+
+.question h1
+{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+.account
+{  margin: 10px 200px 20px 200px;
+    width: 800px;
+    color: white;
+    
+
+}
+.account li
+{
+    list-style: none;
+    width: 800px;
+    padding: 5px;
+}
+.account li label
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer; 
+    position: relative;
+    background-color: gray;
+}
+ label::after
+{
+    content: "+";
+    font-size: 2.5rem;
+    transition: transform 0.5s
+    
+}
+
+ input[type="radio"]
+{
+    display: none;
+}
+.contentbox{
+    text-align: left;
+    max-height: 0px;
+    overflow: hidden;
+}
+.account input[type="radio"]:checked + label + .contentbox{
+    height: 600px;
+}
+.ans{
+    height: 200px;
+    color: white;
+}
+.ans p{
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 50px;
+
+}
+.ans1
+{
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  color: white;
+  font-size: 1rem;
+}
+.ans2
+{
+    height: 50px;
+    width: 300px;
+    color: white;
+    font-size:1.5rem;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-bottom: 100px;
+}
+.ans3
+{
+    height: 50px;
+    width: 180px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+.res
+{
+    height: fit-content;
+    color: white;
+    font-size: 1rem;
+    background-color: black;
+    border-top: 5px solid gray;
+
+}
+.quesind{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.res1
+{
+    height: fit-content;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.res1 li
+{
+    list-style: none;
+    margin-top: 10px;
+}
+.res1 a{
+    color: white;
+    margin-top: 10px;
+}
+.res2 
+{
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+.res2 button{
+    height: 50px;
+    width: 200px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+
+
+}
+.res2 button i
+{
+    margin-right: 20px;
+}
+.netind{
+    font-size: 1rem;
+    
+
+}
